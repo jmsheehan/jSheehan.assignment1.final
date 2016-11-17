@@ -54,10 +54,6 @@ start with the string provided and perform the following operation.</br>
 
 <h3>QUICK AUTO COMPLETE/h3>
 
-Altered version of brute force auto complete</br>
-
-Operates the same as the brute force autocomplete with a couple of differences, therefore everything noted in the
-bruteForce README.md is also relevant to this project.</br> 
 <h3>Differences</h3>
 
 1)  Sorting:</br>
