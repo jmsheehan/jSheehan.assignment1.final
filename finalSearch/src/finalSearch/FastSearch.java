@@ -352,7 +352,7 @@ public class FastSearch implements FastSearchInterface {
 	        }while(!goodInput);
 	        if(k>0&&k<getSubstringList(s).size()){
 		        for(int i = 0;i<k;i++){
-		        	System.out.println("Match "+(i+1)+": "+getSubstringList(s).size());	
+		        	System.out.println("Match "+(i+1)+": "+getSubstringList(s).get(i));	
 		        }
 	        }
 	        else if(k>getSubstringList(s).size())
